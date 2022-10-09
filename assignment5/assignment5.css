@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(91, 89, 89);
+}
+
+#topic1{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#comment1{
+    background-color: rgba(249, 214, 214, 0.855);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#comment2{
+    background-color: rgba(253, 207, 207, 0.667);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
